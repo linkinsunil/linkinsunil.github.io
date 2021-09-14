@@ -1,10 +1,11 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/71932768?s=400&u=907ce697cbb32a87463b1ee26079cb9600e13c5b&v=4" align="center" alt="Sunil Vishwakarma" />
- <h2 align="center">Sunil Vishwakarma</h2>
- <h3 align="center">Frontend Developer!</h3>
 </p>
 
-# Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
+<p align="center>
+          # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
+</p>
+
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=Sunil)
