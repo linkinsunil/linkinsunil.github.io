@@ -1,7 +1,8 @@
 # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil™][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=linkinsunil)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=Sunil)
 
 ## I'm a <Frontend-dev💻/> !! ®©
 
@@ -50,7 +51,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+###  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
