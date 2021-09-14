@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/71932768?s=60&v=4" align="center" alt="Sunil Vishwakarma" />
+ <h2 align="center">Sunil Vishwakarma</h2>
+ <p align="center">Frontend Developer!</p>
+</p>
+
 # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
