@@ -3,7 +3,7 @@
 </p>
 
 <p align="center>
-          # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
+          <h1>Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋</h1> 
 </p>
 
 
