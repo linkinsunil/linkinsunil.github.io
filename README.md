@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunil - aka [@linkinsunil][website] 👋
 
-[![Website](https://img.shields.io/website?label=linkinsunil | portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=linkinsunil)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
