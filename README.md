@@ -1,7 +1,3 @@
-<p align="left">
- <img width="100px" src="https://avatars.githubusercontent.com/u/71932768?s=400&u=907ce697cbb32a87463b1ee26079cb9600e13c5b&v=4" align="center" alt="Sunil Vishwakarma" />
-</p>
-
 # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
