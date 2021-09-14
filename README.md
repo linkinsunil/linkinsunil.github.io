@@ -114,6 +114,9 @@
 
 </details>
 
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkinsunil&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&layout=compact)](https://github.com/linkinsunil/github-readme-stats)
 
 
