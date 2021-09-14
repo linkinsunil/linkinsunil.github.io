@@ -1,9 +1,9 @@
-# Hi there, I'm Sunil Vishwakarma- aka [linkinsunil™][linkedin] 👋
+# Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=Sunil)
 
-## I'm a <Frontend-dev💻/> !! ®©
+## I'm a <Frontend-dev💻/> !!
 
 - ⚡ I'm a self learner
 - 🔜 Currently learning MERN stack 
@@ -94,30 +94,15 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="linkinsunil's GitHub Stats" src="https://github-readme-stats.linkinsunil.vercel.app/api?username=linkinsunil&show_icons=true&hide_border=true" />
-
-</details>
-
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkinsunil&hide=issues,contribs&show_icons=true&theme=radical)
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&layout=compact)](https://github.com/linkinsunil/github-readme-stats)
+
+
+
+© ^[linkinsunil][linkedin]. Made with^ ❤
 
 
 [website]: https://linkinsunil.netlify.app
