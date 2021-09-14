@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/71932768?s=60&v=4" align="center" alt="Sunil Vishwakarma" />
  <h2 align="center">Sunil Vishwakarma</h2>
- <p align="center">Frontend Developer!</p>
+ <h3 align="center">Frontend Developer!</h3>
 </p>
 
 # Hi there, I'm Sunil Vishwakarma- aka [linkinsunil][linkedin] 👋
