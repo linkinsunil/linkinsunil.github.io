@@ -101,8 +101,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&layout=compact)](https://github.com/linkinsunil/github-readme-stats)
 
 
-
-© *[linkinsunil][linkedin]. Made with* ❤
+*Made with* ❤ *by[Sunil Vishwakarma][linkedin]*
 
 
 [website]: https://linkinsunil.netlify.app
