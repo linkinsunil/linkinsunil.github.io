@@ -114,7 +114,7 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&layout=compact)](https://github.com/linkinsunil/github-readme-stats)
 
 
 [website]: https://linkinsunil.netlify.app
