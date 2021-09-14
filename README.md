@@ -102,7 +102,7 @@
 
 
 
-© ^[linkinsunil][linkedin]. Made with^ ❤
+© *[linkinsunil][linkedin]. Made with* ❤
 
 
 [website]: https://linkinsunil.netlify.app
