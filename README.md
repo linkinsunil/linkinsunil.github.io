@@ -8,7 +8,9 @@
 - ⚡ I'm a self learner
 - 🔜 Currently learning MERN stack 
 - 🚾 I’m looking for mentorship 🤝
-- 🔂 2021 Goals: Contribute to Open Source projects
+- 🔂 2021 Goals #1: Contribute to Open Source projects
+- 🔂 2021 Goals #2: Building full-stack side projects
+
 
 ### Connect with me:
 
