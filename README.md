@@ -3,16 +3,16 @@
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=Sunil)
 
-## I'm a <Frontend-dev💻/> !!
+## I'm a <Frontend-dev💻/> 
 
-- ⚡ I'm a self learner
+- ⚡ I'm a self taught developer
 - 🔜 Currently learning MERN stack 
 - 🚾 I’m looking for mentorship 🤝
 - 🔂 2021 Goals #1: Contribute to Open Source projects
 - 🔂 2021 Goals #2: Building full-stack side projects
 
 
-### Connect with me:
+### 🙋‍♂ Connect with me:
 
 [<img align="left" alt="linkinsunil" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkinsunil | YouTube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,7 +22,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🖥 Languages and Tools:
 
 
 <!-- [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />][website]
@@ -86,8 +86,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Essentials - I : Important Git Commands](https://linkinsunil.hashnode.dev/beginner-essentials-i-important-git-commands)
-- [Beginner Essentials - II : Important VSCode Shortcuts](https://linkinsunil.hashnode.dev/beginner-essentials-ii-important-vscode-shortcuts)
+- [Beginner Essentials - I : Important Git Commands | Hashnode](https://linkinsunil.hashnode.dev/beginner-essentials-i-important-git-commands)
+- [Beginner Essentials - II : Important VSCode Shortcuts | Hashnode](https://linkinsunil.hashnode.dev/beginner-essentials-ii-important-vscode-shortcuts)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
