@@ -20,7 +20,7 @@
 [<img align="left" alt="linkinsunil | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="linkinsunil | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /><br/>
 
 ### 🖥 Languages and Tools:
 
@@ -71,6 +71,7 @@
 <br />
 
 ---
+<br/>
 
 ### 🏆 Recent Certifications
 
