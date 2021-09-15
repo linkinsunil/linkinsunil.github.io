@@ -21,6 +21,7 @@
 [<img align="left" alt="linkinsunil | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /><br/>
+---
 
 ### 🖥 Languages and Tools:
 
