@@ -6,10 +6,10 @@
 ## I'm a <Frontend-dev💻/> 
 
 ⚡ I'm a self taught developer
-🔜 Currently learning MERN stack 
-🚾 I’m looking for mentorship 🤝
-🔂 2021 Goals #1: Contribute to Open Source projects
-🔂 2021 Goals #2: Building full-stack side projects
+- 🔜 Currently learning MERN stack 
+- 🚾 I’m looking for mentorship 🤝
+- 🔂 2021 Goals #1: Contribute to Open Source projects
+- 🔂 2021 Goals #2: Building full-stack side projects
 <br/>
 
 ### 🙋‍♂ Connect with me:
