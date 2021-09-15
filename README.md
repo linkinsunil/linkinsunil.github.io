@@ -69,7 +69,6 @@
 
 ---
 <br /><br />
-<br /><br />
 
 ### 🏆 Recent Certifications
 
