@@ -67,11 +67,9 @@
 [<img align="left" alt="Codesandbox" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codesandbox/codesandbox.png" />][website]
 [<img align="left" alt="Codepen" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codepen/codepen.png" />][website] -->
 
-<br />
-<br />
-
+<br/><br/>
 ---
-<br/>
+
 
 ### 🏆 Recent Certifications
 
