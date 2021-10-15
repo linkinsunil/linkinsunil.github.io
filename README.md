@@ -3,16 +3,16 @@
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/officialskv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=Sunil)
 
-## I'm a <Frontend-dev💻/> !!
+## I'm a <Frontend-dev💻/> 
 
-- ⚡ I'm a self learner
+⚡ I'm a self taught developer
 - 🔜 Currently learning MERN stack 
 - 🚾 I’m looking for mentorship 🤝
 - 🔂 2021 Goals #1: Contribute to Open Source projects
 - 🔂 2021 Goals #2: Building full-stack side projects
+<br/>
 
-
-### Connect with me:
+### 🙋‍♂ Connect with me:
 
 [<img align="left" alt="linkinsunil" width="36px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkinsunil | YouTube" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -20,9 +20,9 @@
 [<img align="left" alt="linkinsunil | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="linkinsunil | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /><br />
 
-### Languages and Tools:
+### 🖥 Languages and Tools:
 
 
 <!-- [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />][website]
@@ -67,10 +67,8 @@
 [<img align="left" alt="Codesandbox" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codesandbox/codesandbox.png" />][website]
 [<img align="left" alt="Codepen" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codepen/codepen.png" />][website] -->
 
-<br />
-<br />
-
 ---
+<br /><br />
 
 ### 🏆 Recent Certifications
 
@@ -86,8 +84,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Essentials - I : Important Git Commands](https://linkinsunil.hashnode.dev/beginner-essentials-i-important-git-commands)
-- [Beginner Essentials - II : Important VSCode Shortcuts](https://linkinsunil.hashnode.dev/beginner-essentials-ii-important-vscode-shortcuts)
+- [Beginner Essentials - I : Important Git Commands | Hashnode](https://linkinsunil.hashnode.dev/beginner-essentials-i-important-git-commands)
+- [Beginner Essentials - II : Important VSCode Shortcuts | Hashnode](https://linkinsunil.hashnode.dev/beginner-essentials-ii-important-vscode-shortcuts)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
@@ -100,9 +98,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkinsunil&layout=compact)](https://github.com/linkinsunil/github-readme-stats)
 
+<br /><br />
 
 
-© *[linkinsunil][linkedin]. Made with* ❤
+*Made with* ❤ *by [Sunil Vishwakarma][linkedin]*
 
 
 [website]: https://linkinsunil.netlify.app
