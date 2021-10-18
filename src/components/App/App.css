@@ -4,10 +4,15 @@ body{
     margin: 0;
     width: 100%;
     overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
 }
 
 input:focus,
 textarea:focus,
 select:focus {
     outline: none;
+}
+
+h1{
+    text-align: center;
 }
