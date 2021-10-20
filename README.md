@@ -11,6 +11,10 @@
 
 ## I'm a <Frontend-dev💻/> 
 
+<div align="top">
+  <img align="right" src="https://github.com/linkinsunil/Practice/blob/main/home_anime.gif" width="300" height="300" />
+</div>
+
 ⚡ I'm a self taught developer
 - 🔜 Currently learning MERN stack 
 - 🚾 I’m looking for mentorship 🤝
