@@ -4,9 +4,10 @@
 <kbd>[![Twitter Followers](https://img.shields.io/twitter/follow/sunil?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=officialskv)</kbd>
 <kbd>[![Linkedin](https://img.shields.io/badge/-linknisunil-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/linkinsunil/)](https://www.linkedin.com/in/linkinsunil/)</kbd>
 <kbd>[![Instagram](https://img.shields.io/badge/-linkinsunil-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/linkinsunil/)](https://instagram.com/linkinsunil)</kbd>
-<kbd>[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app)</kbd>
+<kbd>[![Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=flat&logo=About.me&logoColor=white)](https://linkinsunil.netlify.app)</kbd>
 <kbd>[![Discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/5wH6MVwA)</kbd>
 <kbd>[![Gmail Badge](https://img.shields.io/badge/-sunilnet4@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:sunilnet4@gmail.com)](mailto:sunilnet4@gmail.com)</kbd>
+<kbd>[![Gmail Badge](https://img.shields.io/badge/WorldOfCoders-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://t.me/worldofcoders)</kbd>
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil?label=lines-of-code)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
