@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Modal from '../Modal/Modal';
-
 import homeAnime from './../../assets/home_anime.gif';
 import './Home.css';
 
@@ -10,7 +9,7 @@ class Home extends Component {
 
     componentDidMount() {
         setTimeout(() => {
-            this.setState({ showModal: true });
+            this.setState({ showModal: false });
         }, 1000);
     }
 
@@ -23,8 +22,8 @@ class Home extends Component {
             <div className='home-container'>
                 {this.state.showModal && <Modal closeModal={this.closeModal} />}
                 <div className='header-text'>
-                    <h1>Welcome to my portfolio!</h1>
-                    <p>This is Madhav, a full stack dev and a teacher</p>
+                    <h1>Hi, This is Sunil</h1>
+                    <p>A frontend dev and a tech enthusiast</p>
                 </div>
                 <div className='head-btns'>
                     <Link to='/about' className='btn btn-white'>

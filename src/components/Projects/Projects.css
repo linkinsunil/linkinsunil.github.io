@@ -18,8 +18,9 @@
     margin: 20px;
 }
 
-.project-card:hover {
-    box-shadow: 0px 40px 50px rbga(0, 0, 0, 0.4);
+
+.project-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     transition: all 0.3s;
 }
 
@@ -45,11 +46,6 @@
     justify-content: flex-start;
     align-self: flex-start;
     padding: 20px;
-}
-
-.project-yt-link {
-    font-weight: 600;
-    color: #4089ed;
 }
 
 .project-heading {

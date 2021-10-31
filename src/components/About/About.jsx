@@ -9,51 +9,36 @@ const About = () => {
     return (
         <div className='section-container'>
             <Header
-                heading='About Me.'
-                details='The Lean Programmer | Public speaker | YouTuber | Blogger | Uplifting the student community in the field of tech and personal growth'
+                heading='About Me'
+                details='I am a JavaScript enthusiast, a team player, interested in learning more about
+                development in the JavaScript language and libraries and working with it to
+                build great products'
             />
 
             <div className='about-main'>
                 <div className='about-main-left'>
                     {/* Sub section 1 */}
-                    <h3 className='about-sub-head'>Teacher</h3>
+                    <h3 className='about-sub-head'>Blogger</h3>
                     <p className='about-details'>
-                        Teaching is my passion, till now, I've taught thousands
-                        of students about Programming and Web Development. Check
-                        out{' '}
+                        I've been writing blogs lately. Check out{' '}
                         <a
                             className='about-link-element'
-                            href='http://theleanprogrammer.com/aam'
+                            href='https://linkinsunil.hashnode.dev/'
                         >
-                            my free react courses!
-                        </a>
+                            my blogs 
+                        </a> today!
                     </p>
 
                     {/* Sub section 2 */}
-                    <h3 className='about-sub-head'>Blogger</h3>
+                    <h3 className='about-sub-head'>Project Creator</h3>
                     <p className='about-details'>
-                        I've been writing blogs from around 3 years now, and
-                        became top-blogger on medium twice. Check out{' '}
+                        I have been creating a diverse category of projects. I'll insist, if you're starting to learn Javascript or ReactJs, you can {' '}
                         <a
                             className='about-link-element'
-                            href='https://madhavbahl.medium.com/'
+                            href='https://github.com/linkinsunil'
                         >
-                            my medium blogs today!
-                        </a>
-                    </p>
-
-                    {/* Sub section 3 */}
-                    <h3 className='about-sub-head'>Public Speaker</h3>
-                    <p className='about-details'>
-                        Being a passionate public speaker, I've given talks at
-                        more than 75 events till now! Want me to speak in your
-                        event?{' '}
-                        <a
-                            className='about-link-element'
-                            href='mailto:info@theleanprogrammer.com'
-                        >
-                            Email me the details!
-                        </a>
+                            follow me on Github
+                        </a> to checkout my beginner friendly project's in codebase as well as deployed.
                     </p>
                 </div>
 

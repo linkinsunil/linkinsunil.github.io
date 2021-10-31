@@ -26,6 +26,7 @@
     letter-spacing: 0.2px;
     color: #fff;
     margin: 10px;
+    text-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .header-text > p {
@@ -36,6 +37,7 @@
     line-height: 20px;
     color: #e5e5e5;
     margin: 10px;
+    text-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .head-btns {
