@@ -16,7 +16,7 @@
 
 <!-- Github Profile -->
 
-![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil?label=lines-of-code)
+![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil.github.io?label=lines-of-code)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=linkinsunil.linkinsunil)
 ![GitHub followers](https://img.shields.io/github/followers/linkinsunil?style=social)
