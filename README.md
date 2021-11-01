@@ -93,15 +93,15 @@
 *Made with* ❤ *by [Sunil Vishwakarma][linkedin]*
 
 <!-- ![GitHub labels](https://img.shields.io/github/labels/linkinsunil/linkinsunil/This%20Repo?color=%2384CC16) -->
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/linkinsunil/linkinsunil)
-![GitHub last commit](https://img.shields.io/github/last-commit/linkinsunil/linkinsunil)
-![GitHub language count](https://img.shields.io/github/languages/count/linkinsunil/linkinsunil)
-![GitHub top language](https://img.shields.io/github/languages/top/linkinsunil/linkinsunil)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/linkinsunil/linkinsunil)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/linkinsunil/linkinsunil)
-![GitHub repo size](https://img.shields.io/github/repo-size/linkinsunil/linkinsunil)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/linkinsunil/linkinsunil.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/linkinsunil/linkinsunil.github.io)
+![GitHub language count](https://img.shields.io/github/languages/count/linkinsunil/linkinsunil.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/linkinsunil/linkinsunil.github.io)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/linkinsunil/linkinsunil.github.io)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/linkinsunil/linkinsunil.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/linkinsunil/linkinsunil.github.io)
 
-[website]: https://linkinsunil.netlify.app
+[website]: https://linkinsunil.github.io
 [twitter]: https://twitter.com/officialskv
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/linkinsunil
