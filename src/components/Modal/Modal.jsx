@@ -29,7 +29,7 @@ const Modal = ({ closeModal }) => {
                     </p>
                 </div>
                 <div className='lower-section'>
-                    <a onClick={closeModal} className='modal-btn btn-red'>
+                    <a href="/" onClick={closeModal} className='modal-btn btn-red'>
                         Close
                     </a>
                     <a
