@@ -24,7 +24,7 @@ export const projectsData = [
   {
     projectName: 'Portfolio Website',
     projectDescription:
-      'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits.',
+      'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits of having one as a beginner.',
     imageUrl: `${portfolio}`,
     projectUrl: 'http://linkinsunil.github.io',
   },
