@@ -2,9 +2,9 @@ import portfolio from './../assets/portfolio.png';
 import flashtype from './../assets/flashtype.png';
 import namely from './../assets/namely.png';
 import textUtils from './../assets/text-utils.png'
-import calc from './../asset/calc.jpg'
-import pokedex from './../asset/pokedex.png'
-import flexbox from './../asset/flexbox'
+import calc from './../assets/calc.jpg'
+import pokedex from './../assets/pokedex.png'
+import flexbox from './../assets/flexbox'
 
 export const projectsData = [
   {
