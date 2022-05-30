@@ -4,7 +4,7 @@ import namely from './../assets/namely.png';
 import textUtils from './../assets/text-utils.png'
 import calc from './../assets/calc.jpg'
 import pokedex from './../assets/pokedex.png'
-import flexbox from './../assets/flexbox'
+import flexbox from './../assets/flexbox.png'
 
 export const projectsData = [
   {
