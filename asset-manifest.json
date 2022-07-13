@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.de016b86.chunk.css",
-    "main.js": "/static/js/main.c61b4d79.chunk.js",
-    "main.js.map": "/static/js/main.c61b4d79.chunk.js.map",
+    "main.js": "/static/js/main.4980498f.chunk.js",
+    "main.js.map": "/static/js/main.4980498f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1858eead.js",
     "runtime-main.js.map": "/static/js/runtime-main.1858eead.js.map",
     "static/js/2.d9eafc40.chunk.js": "/static/js/2.d9eafc40.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/calc.17db13b4.jpg": "/static/media/calc.17db13b4.jpg",
     "static/media/contact_anime.1f3936c4.png": "/static/media/contact_anime.1f3936c4.png",
+    "static/media/czarui.75d4389c.jpg": "/static/media/czarui.75d4389c.jpg",
     "static/media/flashtype.f48626a1.png": "/static/media/flashtype.f48626a1.png",
     "static/media/flexbox.e97486c8.png": "/static/media/flexbox.e97486c8.png",
     "static/media/home_anime.f372ef86.gif": "/static/media/home_anime.f372ef86.gif",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.1858eead.js",
     "static/js/2.d9eafc40.chunk.js",
     "static/css/main.de016b86.chunk.css",
-    "static/js/main.c61b4d79.chunk.js"
+    "static/js/main.4980498f.chunk.js"
   ]
 }
