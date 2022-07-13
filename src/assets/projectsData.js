@@ -1,12 +1,20 @@
 import portfolio from './../assets/portfolio.png';
 import flashtype from './../assets/flashtype.png';
 import namely from './../assets/namely.png';
-import textUtils from './../assets/text-utils.png'
-import calc from './../assets/calc.jpg'
-import pokedex from './../assets/pokedex.png'
-import flexbox from './../assets/flexbox.png'
+import textUtils from './../assets/text-utils.png';
+import calc from './../assets/calc.jpg';
+import pokedex from './../assets/pokedex.png';
+import flexbox from './../assets/flexbox.png';
+import czarui from './../assets/czarui.jpg';
 
 export const projectsData = [
+  {
+    projectName: 'CzarUI Component Library',
+    projectDescription:
+      'Build nice and minimal design applications with Czar-UI',
+    imageUrl: `${czarui}`,
+    projectUrl: 'https://czar-ui.netlify.app/',
+  },
   {
     projectName: 'Namely!',
     projectDescription:
@@ -51,9 +59,9 @@ export const projectsData = [
   },
   {
     projectName: 'flexbox-visual-guide',
-    projectDescription:
-      'A visual guide to CSS Flexbox commands and effects',
+    projectDescription: 'A visual guide to CSS Flexbox commands and effects',
     imageUrl: `${flexbox}`,
-    projectUrl: 'https://linkinsunil.github.io/flexbox-visual-guide/public/index.html',
+    projectUrl:
+      'https://linkinsunil.github.io/flexbox-visual-guide/public/index.html',
   },
 ];
