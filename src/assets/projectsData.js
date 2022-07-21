@@ -3,8 +3,8 @@ import flashtype from './../assets/flashtype.png';
 import namely from './../assets/namely.png';
 import textUtils from './../assets/text-utils.png';
 import calc from './../assets/calc.jpg';
-import pokedex from './../assets/pokedex.png';
-import flexbox from './../assets/flexbox.png';
+import pokedex from './../assets/pokedex.PNG';
+import flexbox from './../assets/flexbox.PNG';
 import czarui from './../assets/czarui.jpg';
 
 export const projectsData = [
