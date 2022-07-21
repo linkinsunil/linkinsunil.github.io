@@ -33,10 +33,6 @@
 </div>
 
 ⚡ I'm a self taught developer
-- 🔜 Exploring ReactJs 
-- 🚾 I’m looking for mentorship 🤝
-- 🔂 2021 Goals #1: Contribute to Open Source projects
-- 🔂 2021 Goals #2: Building full-stack side projects
 
 ---
 
