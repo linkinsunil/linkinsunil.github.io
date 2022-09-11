@@ -6,6 +6,10 @@ import calc from './../assets/calc.jpg';
 import pokedex from './../assets/pokedex.PNG';
 import flexbox from './../assets/flexbox.PNG';
 import czarui from './../assets/czarui.jpg';
+import chromeExt from './../assets/chromeExt.png';
+import craftEcomApp from './../assets/craftEcomApp.png';
+import ecomScreens from './../assets/ecomScreens.png';
+import quizApp from './../assets/quizApp.png';
 
 export const projectsData = [
   {
@@ -14,6 +18,34 @@ export const projectsData = [
       'Build nice and minimal design applications with Czar-UI',
     imageUrl: `${czarui}`,
     projectUrl: 'https://czar-ui.netlify.app/',
+  },
+  {
+    projectName: 'Ecommerce App',
+    projectDescription:
+      'Clean and easy interface ecommerce react web-app with cart, wishlist, home, products, login and register pages',
+    imageUrl: `${craftEcomApp}`,
+    projectUrl: 'https://craftcom.vercel.app/',
+  },
+  {
+    projectName: 'Quizmo App',
+    projectDescription:
+      'Take quiz in different difficulty level and on a vast category of topics, get scores and correct answers in real time',
+    imageUrl: `${quizApp}`,
+    projectUrl: 'https://quizmo.vercel.app/',
+  },
+  {
+    projectName: 'New Tab - Chrome Extension',
+    projectDescription:
+      "Load this extension and get following widgets in new browser tab- save bookmarks, get time/day/date/year, greetings acc to time, todo list - add, update, strikethrough, delete, weather for any location - changing card color acc to temperature, price of top cryptos in $, ₹, €. Your data is saved in user's local storage",
+    imageUrl: `${chromeExt}`,
+    projectUrl: 'https://new-tab-extension.vercel.app/',
+  },
+  {
+    projectName: 'Loot Deals UI Pages',
+    projectDescription:
+      'Ecommerce screens for login, signup, cart, wishlist, home, products page with card component, filter component etc',
+    imageUrl: `${ecomScreens}`,
+    projectUrl: 'https://loot-deals.onrender.com/',
   },
   {
     projectName: 'Namely!',
