@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5e169963.chunk.css",
-    "main.js": "/static/js/main.11cf8b8b.chunk.js",
-    "main.js.map": "/static/js/main.11cf8b8b.chunk.js.map",
+    "main.js": "/static/js/main.77b50e79.chunk.js",
+    "main.js.map": "/static/js/main.77b50e79.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1858eead.js",
     "runtime-main.js.map": "/static/js/runtime-main.1858eead.js.map",
     "static/js/2.d9eafc40.chunk.js": "/static/js/2.d9eafc40.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/about_anime.986764c2.gif": "/static/media/about_anime.986764c2.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/calc.17db13b4.jpg": "/static/media/calc.17db13b4.jpg",
-    "static/media/chromeExt.4889d144.png": "/static/media/chromeExt.4889d144.png",
+    "static/media/chromeExt.dc05ccbf.png": "/static/media/chromeExt.dc05ccbf.png",
     "static/media/contact_anime.1f3936c4.png": "/static/media/contact_anime.1f3936c4.png",
     "static/media/craftEcomApp.810761c6.png": "/static/media/craftEcomApp.810761c6.png",
     "static/media/czarui.75d4389c.jpg": "/static/media/czarui.75d4389c.jpg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.1858eead.js",
     "static/js/2.d9eafc40.chunk.js",
     "static/css/main.5e169963.chunk.css",
-    "static/js/main.11cf8b8b.chunk.js"
+    "static/js/main.77b50e79.chunk.js"
   ]
 }
