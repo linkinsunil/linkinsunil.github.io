@@ -10,10 +10,18 @@ import chromeExt from './../assets/chromeExt.png';
 import craftEcomApp from './../assets/craftEcomApp.png';
 import ecomScreens from './../assets/ecomScreens.png';
 import quizApp from './../assets/quizApp.png';
+import youtube_Screenshot from './../assets/youtube_Screenshot.png';
 
 export const projectsData = [
   {
-    projectName: 'CzarUI Component Library',
+    projectName: 'Video Library',
+    projectDescription:
+      'A video library inspired by youtube, for aspiring and existing developers',
+    imageUrl: `${youtube_Screenshot}`,
+    projectUrl: 'https://youtube-hazel-gamma.vercel.app/',
+  },
+  {
+    projectName: 'UI Component Library',
     projectDescription:
       'Build nice and minimal design applications with Czar-UI',
     imageUrl: `${czarui}`,
@@ -27,7 +35,7 @@ export const projectsData = [
     projectUrl: 'https://craftcom.vercel.app/',
   },
   {
-    projectName: 'Quizmo App',
+    projectName: 'Quiz App',
     projectDescription:
       'Take quiz in different difficulty level and on a vast category of topics, get scores and correct answers in real time',
     imageUrl: `${quizApp}`,
