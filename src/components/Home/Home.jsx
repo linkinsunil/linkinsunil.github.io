@@ -26,12 +26,22 @@ class Home extends Component {
           <p>A frontend developer and a tech enthusiast</p>
         </div>
         <div className='head-btns'>
-          <Link to='/about' className='btn btn-white'>
-            <p className='btn-text'>Know more about me</p>
+          <Link to='/about' className='btn btn-transparent'>
+            <p className='btn-text'>More about me</p>
           </Link>
           <Link to='/contact' className='btn btn-transparent'>
             <p className='btn-text'>Connect with me</p>
           </Link>
+          <button className='btn btn-transparent'>
+            <a
+              href='https://drive.google.com/file/d/1klZY85ciXc3Bz0eoJ0Mi8ANxGZfAhzld/view?usp=share_link'
+              target='_blank'
+              className='btn-text'
+              rel='noreferrer'
+            >
+              Resume
+            </a>
+          </button>
         </div>
         <div className='splash-image'>
           <img src={homeAnime} alt='animation' className='home-anime' />
