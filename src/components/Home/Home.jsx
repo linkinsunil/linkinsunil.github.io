@@ -32,16 +32,15 @@ class Home extends Component {
           <Link to='/contact' className='btn btn-transparent'>
             <p className='btn-text'>Connect with me</p>
           </Link>
-          <button className='btn btn-transparent'>
-            <a
-              href='https://drive.google.com/file/d/1klZY85ciXc3Bz0eoJ0Mi8ANxGZfAhzld/view?usp=share_link'
-              target='_blank'
-              className='btn-text'
-              rel='noreferrer'
-            >
-              Resume
-            </a>
-          </button>
+          <a
+            href='../../assets/Sunil-Frontend.pdf'
+            target='_blank'
+            className='btn-text btn btn-transparent'
+            rel='noreferrer'
+            download='Frontend_Resume-Sunil_Vishwakarma'
+          >
+            Resume
+          </a>
         </div>
         <div className='splash-image'>
           <img src={homeAnime} alt='animation' className='home-anime' />
