@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Modal from '../Modal/Modal';
 import homeAnime from './../../assets/home_anime.gif';
+import resume from './../../assets/Sunil-Frontend.pdf';
 import './Home.css';
 
 class Home extends Component {
@@ -33,11 +34,11 @@ class Home extends Component {
             <p className='btn-text'>Connect with me</p>
           </Link>
           <a
-            href='../../assets/Sunil-Frontend.pdf'
+            href={resume}
             target='_blank'
             className='btn-text btn btn-transparent'
             rel='noreferrer'
-            download='Frontend_Resume-Sunil_Vishwakarma'
+            download='Sunil_Vishwakarma-Frontend_React'
           >
             Resume
           </a>
