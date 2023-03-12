@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4ba77324.chunk.css",
-    "main.js": "/static/js/main.b03a6859.chunk.js",
-    "main.js.map": "/static/js/main.b03a6859.chunk.js.map",
+    "main.js": "/static/js/main.d1f11b08.chunk.js",
+    "main.js.map": "/static/js/main.d1f11b08.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1858eead.js",
     "runtime-main.js.map": "/static/js/runtime-main.1858eead.js.map",
     "static/js/2.d9eafc40.chunk.js": "/static/js/2.d9eafc40.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.4ba77324.chunk.css.map": "/static/css/main.4ba77324.chunk.css.map",
     "static/js/2.d9eafc40.chunk.js.LICENSE.txt": "/static/js/2.d9eafc40.chunk.js.LICENSE.txt",
-    "static/media/Sunil-Frontend.00d80016.pdf": "/static/media/Sunil-Frontend.00d80016.pdf",
+    "static/media/Sunil-Frontend.72e67e1c.pdf": "/static/media/Sunil-Frontend.72e67e1c.pdf",
     "static/media/about_anime.986764c2.gif": "/static/media/about_anime.986764c2.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/calc.17db13b4.jpg": "/static/media/calc.17db13b4.jpg",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.1858eead.js",
     "static/js/2.d9eafc40.chunk.js",
     "static/css/main.4ba77324.chunk.css",
-    "static/js/main.b03a6859.chunk.js"
+    "static/js/main.d1f11b08.chunk.js"
   ]
 }
