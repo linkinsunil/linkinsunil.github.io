@@ -1,5 +1,18 @@
 .home-container {
-  background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
+  background: #833ab4; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fcb045,
+    #fd1d1d,
+    #833ab4
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fcb045,
+    #fd1d1d,
+    #833ab4
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -95,12 +108,16 @@
 
 .splash-image {
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
+  margin-right: 4rem;
 }
 
 .home-anime {
-  margin-bottom: -80px;
+  width: 700px;
+  min-width: 80%;
+  height: 300px;
+  object-fit: cover;
 }
 
 /* For small height screen sizes */
@@ -115,7 +132,10 @@
   .home-anime {
     width: 80%;
     align-self: center;
-    margin-bottom: -20px;
+  }
+
+  .splash-image {
+    margin-right: 0rem;
   }
 
   .head-btns {

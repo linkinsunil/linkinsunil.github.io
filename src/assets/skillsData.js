@@ -1,31 +1,49 @@
+import html from './html.png';
+import css from './css.png';
+import css2 from './logo-css.png';
+import js from './js.png';
+import js2 from './logo-filled-round-js.png';
+import js3 from './logo-filled-squared-js.png';
+import react from './react.png';
+import react2 from './logo-react.png';
+import redux from './redux.png';
+import redux2 from './redux.svg';
+import node from './node-js.png';
+import node2 from './node.png';
+import mode3 from './logo-filled-nodejs.png';
+import mongo from './mongo.png';
+import github from './github (2).svg';
+import git from './logo-outlined-Git-.png';
+import vscode from './logo-vscode.png';
+
 export const skillList = [
   {
     skillName: 'HTML',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
+    skillUrl: html,
   },
   {
     skillName: 'CSS',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/css.png',
+    skillUrl: css,
   },
   {
     skillName: 'JavaScript',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
+    skillUrl: js,
   },
   {
     skillName: 'React',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
+    skillUrl: react,
   },
   {
     skillName: 'Redux',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/redux.png',
+    skillUrl: redux,
   },
   {
     skillName: 'NodeJS',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/node.png',
+    skillUrl: node,
   },
   {
     skillName: 'MongoDB',
-    skillUrl: 'https://madhavbahl.tech/portfolio-assets/mongo.png',
+    skillUrl: mongo,
   },
   {
     skillName: 'Styled Components',
@@ -37,6 +55,14 @@ export const skillList = [
   },
   {
     skillName: 'Git',
-    skillUrl: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+    skillUrl: git,
+  },
+  {
+    skillName: 'Github',
+    skillUrl: github,
+  },
+  {
+    skillName: 'VSCode',
+    skillUrl: vscode,
   },
 ];

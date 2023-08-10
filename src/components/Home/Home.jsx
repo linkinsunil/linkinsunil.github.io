@@ -1,18 +1,18 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Modal from '../Modal/Modal';
-import homeAnime from './../../assets/home_anime.gif';
+import programmer from './../../assets/programmer1.gif';
 import resume from './../../assets/Sunil-Frontend.pdf';
 import './Home.css';
 
 class Home extends Component {
-  state = { showModal: false };
+  state = { showModal: true };
 
-  componentDidMount() {
-    setTimeout(() => {
-      this.setState({ showModal: false });
-    }, 1000);
-  }
+  // componentDidMount() {
+  //   setTimeout(() => {
+  //     this.setState({ showModal: false });
+  //   }, 1000);
+  // }
 
   closeModal = () => {
     this.setState({ showModal: false });
@@ -24,7 +24,7 @@ class Home extends Component {
         {this.state.showModal && <Modal closeModal={this.closeModal} />}
         <div className='header-text'>
           <h1>Hi, This is Sunil</h1>
-          <p>A frontend developer and a tech enthusiast</p>
+          <p>A frontend developer and JavaScript enthusiast</p>
         </div>
         <div className='head-btns'>
           <Link to='/about' className='btn btn-transparent'>
@@ -44,7 +44,7 @@ class Home extends Component {
           </a>
         </div>
         <div className='splash-image'>
-          <img src={homeAnime} alt='animation' className='home-anime' />
+          <img src={programmer} alt='animation' className='home-anime' />
         </div>
       </div>
     );
