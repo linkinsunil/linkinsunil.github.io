@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ba77324.chunk.css",
-    "main.js": "/static/js/main.d1f11b08.chunk.js",
-    "main.js.map": "/static/js/main.d1f11b08.chunk.js.map",
+    "main.css": "/static/css/main.4ce22f9c.chunk.css",
+    "main.js": "/static/js/main.bf843274.chunk.js",
+    "main.js.map": "/static/js/main.bf843274.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1858eead.js",
     "runtime-main.js.map": "/static/js/runtime-main.1858eead.js.map",
     "static/js/2.d9eafc40.chunk.js": "/static/js/2.d9eafc40.chunk.js",
     "static/js/2.d9eafc40.chunk.js.map": "/static/js/2.d9eafc40.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4ba77324.chunk.css.map": "/static/css/main.4ba77324.chunk.css.map",
+    "static/css/main.4ce22f9c.chunk.css.map": "/static/css/main.4ce22f9c.chunk.css.map",
     "static/js/2.d9eafc40.chunk.js.LICENSE.txt": "/static/js/2.d9eafc40.chunk.js.LICENSE.txt",
-    "static/media/Sunil-Frontend.72e67e1c.pdf": "/static/media/Sunil-Frontend.72e67e1c.pdf",
+    "static/media/Sunil-Frontend.400cc726.pdf": "/static/media/Sunil-Frontend.400cc726.pdf",
     "static/media/about_anime.986764c2.gif": "/static/media/about_anime.986764c2.gif",
     "static/media/about_vector.c42fe3db.png": "/static/media/about_vector.c42fe3db.png",
     "static/media/calc.17db13b4.jpg": "/static/media/calc.17db13b4.jpg",
@@ -21,11 +21,19 @@
     "static/media/ecomScreens.15032a54.png": "/static/media/ecomScreens.15032a54.png",
     "static/media/flashtype.f48626a1.png": "/static/media/flashtype.f48626a1.png",
     "static/media/flexbox.e97486c8.PNG": "/static/media/flexbox.e97486c8.PNG",
-    "static/media/home_anime.f372ef86.gif": "/static/media/home_anime.f372ef86.gif",
+    "static/media/github (2).08844641.svg": "/static/media/github (2).08844641.svg",
+    "static/media/logo-css.463e319b.png": "/static/media/logo-css.463e319b.png",
+    "static/media/logo-filled-round-js.3338fa38.png": "/static/media/logo-filled-round-js.3338fa38.png",
+    "static/media/logo-filled-squared-js.3dfb665e.png": "/static/media/logo-filled-squared-js.3dfb665e.png",
+    "static/media/logo-react.07d9e407.png": "/static/media/logo-react.07d9e407.png",
     "static/media/namely.5e67c8a5.png": "/static/media/namely.5e67c8a5.png",
+    "static/media/node-js.0f5efdd2.png": "/static/media/node-js.0f5efdd2.png",
     "static/media/pokedex.815f75e8.PNG": "/static/media/pokedex.815f75e8.PNG",
     "static/media/portfolio.dc6d508d.png": "/static/media/portfolio.dc6d508d.png",
+    "static/media/programmer1.439aa1b5.gif": "/static/media/programmer1.439aa1b5.gif",
     "static/media/quizApp.2b1ddfe7.png": "/static/media/quizApp.2b1ddfe7.png",
+    "static/media/react.7e9e8696.png": "/static/media/react.7e9e8696.png",
+    "static/media/redux.0e4fb1c8.svg": "/static/media/redux.0e4fb1c8.svg",
     "static/media/skills_vector.1fb5f4a4.png": "/static/media/skills_vector.1fb5f4a4.png",
     "static/media/text-utils.1516e625.png": "/static/media/text-utils.1516e625.png",
     "static/media/youtube_Screenshot.d4b03c50.png": "/static/media/youtube_Screenshot.d4b03c50.png"
@@ -33,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.1858eead.js",
     "static/js/2.d9eafc40.chunk.js",
-    "static/css/main.4ba77324.chunk.css",
-    "static/js/main.d1f11b08.chunk.js"
+    "static/css/main.4ce22f9c.chunk.css",
+    "static/js/main.bf843274.chunk.js"
   ]
 }
