@@ -74,6 +74,11 @@
   margin: 21px;
 }
 
+.social-icon > img {
+  height: 75px;
+  width: 75px;
+}
+
 .social-icon:hover,
 .contact-btn:hover {
   filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.32));
@@ -85,6 +90,12 @@
   .social-icon {
     margin: 8px 21px;
   }
+
+  .social-icon > img {
+    height: 45px;
+    width: 45px;
+  }
+
   .contact-form-container {
     width: 80%;
   }

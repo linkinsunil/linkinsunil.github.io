@@ -7,30 +7,30 @@ import skillsVector from './../../assets/skills_vector.png';
 import SkillCard from './SkillCard';
 
 const Skills = () => {
-    return (
-        <div className='section-container'>
-            <Header
-                heading='My Skills.'
-                details="Passionate about new technologies, I keep exploring stuff. Here's the tech stack I've worked with!"
-            />
+  return (
+    <div className='section-container'>
+      <Header
+        heading='My Skills.'
+        details="Passionate about new technologies, I keep exploring stuff. Here's the tech stack, tools and IDE I've worked with!"
+      />
 
-            <div className='skill-card-container'>
-                {skillList.map(({ skillName, skillUrl }) => (
-                    <SkillCard skillName={skillName} skillUrl={skillUrl} />
-                ))}
-            </div>
+      <div className='skill-card-container'>
+        {skillList.map(({ skillName, skillUrl }) => (
+          <SkillCard
+            key={skillName}
+            skillName={skillName}
+            skillUrl={skillUrl}
+          />
+        ))}
+      </div>
 
-            <FooterLink phrase='Get in ' link='touch.' toAdress='/contact' />
+      <FooterLink phrase='Get in ' link='touch.' toAdress='/contact' />
 
-            <div className='skills-vector-frame'>
-                <img
-                    src={skillsVector}
-                    alt='skills'
-                    className='skills-vector'
-                />
-            </div>
-        </div>
-    );
+      <div className='skills-vector-frame'>
+        <img src={skillsVector} alt='skills' className='skills-vector' />
+      </div>
+    </div>
+  );
 };
 
 export default Skills;

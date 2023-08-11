@@ -8,8 +8,8 @@
 }
 
 .project-card {
-  width: 500px;
-  min-height: 550px;
+  width: 300px;
+  min-height: 350px;
   background: #fff;
   box-shadow: 10px 40px 50px rgba(184, 187, 198, 0.4);
   border-radius: 20px;
@@ -27,6 +27,7 @@
 .image-container {
   width: 100%;
   border-radius: 20px 20px 0 0;
+  border-bottom: 1px solid rgb(202, 202, 202);
 }
 
 .project-external-link {
@@ -37,7 +38,9 @@
   display: block;
   border-radius: inherit;
   max-height: 100%;
+  height: 250px;
   max-width: 100%;
+  object-fit: cover;
 }
 
 .project-details-container {
@@ -46,10 +49,12 @@
   justify-content: flex-start;
   align-self: flex-start;
   padding: 20px;
+  height: 200px;
 }
 
 .project-heading {
   margin: 0;
+  color: #000;
 }
 
 .project-details {
@@ -57,6 +62,9 @@
   font-size: 16px;
   line-height: 28px;
   color: #7d7987;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0px;
 }
 
 @media only screen and (max-width: 640px) {

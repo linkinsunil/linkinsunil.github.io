@@ -24,6 +24,9 @@
 .about-link-element {
   color: #fff;
 }
+.about-link-element:hover {
+  color: #170367;
+}
 
 .about-sub-head {
   margin: 0;

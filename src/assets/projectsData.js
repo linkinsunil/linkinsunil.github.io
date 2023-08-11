@@ -11,6 +11,11 @@ import craftEcomApp from './../assets/craftEcomApp.png';
 import ecomScreens from './../assets/ecomScreens.png';
 import quizApp from './../assets/quizApp.png';
 import youtube_Screenshot from './../assets/youtube_Screenshot.png';
+import miniFullstack from './../assets/Screenshot-fullstack-mini-app.png';
+import listedDashboard from './../assets/listedDashboard.png';
+import projectManagement from './../assets/projectManagement.png';
+import infiniteScroll from './../assets/infiniteScroll.png';
+import svgDashboard from './../assets/svgDashboard.png';
 
 export const projectsData = [
   {
@@ -18,7 +23,7 @@ export const projectsData = [
     projectDescription:
       'A video library inspired by youtube, for aspiring and existing developers',
     imageUrl: `${youtube_Screenshot}`,
-    projectUrl: 'https://youtube-hazel-gamma.vercel.app/',
+    projectUrl: 'https://youtube-bjnp8d15c-linkinsunil.vercel.app/',
   },
   {
     projectName: 'UI Component Library',
@@ -103,5 +108,39 @@ export const projectsData = [
     imageUrl: `${flexbox}`,
     projectUrl:
       'https://linkinsunil.github.io/flexbox-visual-guide/public/index.html',
+  },
+  {
+    projectName: 'Mini fullstack app',
+    projectDescription:
+      'A mini app using ReactJS, Firebase, and ExpressJS featuring image and text upload and preview, notification toast and calculator',
+    imageUrl: `${miniFullstack}`,
+    projectUrl: 'https://nordapps.vercel.app/',
+  },
+  {
+    projectName: 'Google Login & Dashboard',
+    projectDescription:
+      'A dashboard made with Recharts. Signin with Google Login and standard login.',
+    imageUrl: `${listedDashboard}`,
+    projectUrl: 'https://listed-app-six.vercel.app/',
+  },
+  {
+    projectName: 'Project Management',
+    projectDescription:
+      'A project management application with all projects view, single project view and draggable functionality.',
+    imageUrl: `${projectManagement}`,
+    projectUrl: 'https://trellox.vercel.app/',
+  },
+  {
+    projectName: 'Infinite Scroll',
+    projectDescription: 'A react project showcasing infinite scroll.',
+    imageUrl: `${infiniteScroll}`,
+    projectUrl: 'https://social123.vercel.app/',
+  },
+  {
+    projectName: 'SVG Dashboard',
+    projectDescription:
+      'A react project showcasing dashboard using a SVG component and a draggable component (in outline tab).',
+    imageUrl: `${svgDashboard}`,
+    projectUrl: 'https://longshot-rho.vercel.app/',
   },
 ];
